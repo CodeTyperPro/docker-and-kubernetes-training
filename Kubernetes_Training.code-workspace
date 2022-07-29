@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "kubernetes-training",
+			"path": "kubernetes-training"
+		}
+	],
+	"settings": {}
+}
